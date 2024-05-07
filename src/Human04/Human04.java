@@ -1,5 +1,6 @@
 package Human04;
 
+
 public class Human04 {
     // メンバー変数
 	// static変数
