@@ -1,5 +1,6 @@
 package classmethod.human;
 
+
 import Human04.Human04;
 
 public class ClassMethod04 {
